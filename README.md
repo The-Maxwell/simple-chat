@@ -2,7 +2,7 @@
 This is a simple chat project. Technologies used:
 - Node.js
 - Express
-- Engine EJS
+- View engine EJS
 - JQuery
 - Nodemon
 - NPM
